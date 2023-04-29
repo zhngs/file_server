@@ -1,0 +1,1 @@
+curl -F "file=@$1" http://localhost:6060/upload | tee
